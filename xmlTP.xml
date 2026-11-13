@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio SYSTEM "file:/Users/yousseffatih/Desktop/biblio/xmlTP.dtd">
+<biblio>
+    <etudiant code="E1" nom="FATIH" prenom="youssef" age="29">
+        <livre id="L1" titre="XML" dateEmprunt="2016-11-13" rendu="oui"/>
+        <livre id="L2" titre="JAVA" dateEmprunt="2016-11-13" rendu="oui"/>
+    </etudiant>
+    <etudiant code="E2" nom="FATIH" prenom="Noura" age="21">
+        <livre id="L1" titre="Intoroduction XML" dateEmprunt="2016-11-13" rendu="oui"/>
+        <livre id="L2" titre="Oracle" dateEmprunt="2016-11-13" rendu="non"/>
+    </etudiant>
+</biblio>
